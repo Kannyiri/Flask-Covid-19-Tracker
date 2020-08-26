@@ -1,1 +1,1 @@
-web:gunicoun app:app
+web: gunicoun app:app
